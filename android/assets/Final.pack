@@ -1,0 +1,33 @@
+
+Final.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+T1
+  rotate: false
+  xy: 1, 2392
+  size: 1061, 795
+  orig: 1061, 795
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 1, 1595
+  size: 1061, 795
+  orig: 1061, 795
+  offset: 0, 0
+  index: -1
+T3
+  rotate: false
+  xy: 1, 798
+  size: 1061, 795
+  orig: 1061, 795
+  offset: 0, 0
+  index: -1
+T4
+  rotate: false
+  xy: 1, 1
+  size: 1061, 795
+  orig: 1061, 795
+  offset: 0, 0
+  index: -1

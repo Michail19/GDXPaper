@@ -1,0 +1,26 @@
+
+InfEng.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+S1
+  rotate: false
+  xy: 1, 329
+  size: 662, 162
+  orig: 662, 162
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 1, 165
+  size: 662, 162
+  orig: 662, 162
+  offset: 0, 0
+  index: -1
+S3
+  rotate: false
+  xy: 1, 1
+  size: 662, 162
+  orig: 662, 162
+  offset: 0, 0
+  index: -1

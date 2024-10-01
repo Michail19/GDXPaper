@@ -1,0 +1,33 @@
+
+Jamper.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+T1
+  rotate: false
+  xy: 1, 517
+  size: 304, 256
+  orig: 304, 256
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 1, 259
+  size: 280, 256
+  orig: 280, 256
+  offset: 0, 0
+  index: -1
+T3
+  rotate: false
+  xy: 307, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+T4
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

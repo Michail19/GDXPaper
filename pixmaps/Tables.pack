@@ -1,0 +1,68 @@
+
+Tables.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Tb1
+  rotate: false
+  xy: 1, 1289
+  size: 662, 642
+  orig: 662, 642
+  offset: 0, 0
+  index: -1
+Tb2
+  rotate: false
+  xy: 1, 645
+  size: 662, 642
+  orig: 662, 642
+  offset: 0, 0
+  index: -1
+Tb3
+  rotate: false
+  xy: 665, 1289
+  size: 662, 642
+  orig: 662, 642
+  offset: 0, 0
+  index: -1
+Tb4
+  rotate: false
+  xy: 1, 1
+  size: 662, 642
+  orig: 662, 642
+  offset: 0, 0
+  index: -1
+Tb5
+  rotate: false
+  xy: 665, 645
+  size: 662, 642
+  orig: 662, 642
+  offset: 0, 0
+  index: -1
+Tb6
+  rotate: false
+  xy: 1329, 1289
+  size: 662, 642
+  orig: 662, 642
+  offset: 0, 0
+  index: -1
+Tb7
+  rotate: false
+  xy: 665, 1
+  size: 662, 642
+  orig: 662, 642
+  offset: 0, 0
+  index: -1
+Tb8
+  rotate: false
+  xy: 1329, 1125
+  size: 662, 162
+  orig: 662, 162
+  offset: 0, 0
+  index: -1
+Tb9
+  rotate: false
+  xy: 1329, 961
+  size: 662, 162
+  orig: 662, 162
+  offset: 0, 0
+  index: -1

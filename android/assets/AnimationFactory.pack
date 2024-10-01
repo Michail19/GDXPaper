@@ -1,0 +1,61 @@
+
+AnimationFactory.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+St22
+  rotate: false
+  xy: 1, 2165
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1
+St11
+  rotate: false
+  xy: 1, 1083
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1
+St21
+  rotate: false
+  xy: 2403, 2165
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1
+St31
+  rotate: false
+  xy: 1, 1
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1
+St32
+  rotate: false
+  xy: 2403, 1083
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1
+St12
+  rotate: false
+  xy: 4805, 2165
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1
+St13
+  rotate: false
+  xy: 2403, 1
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1
+St0
+  rotate: false
+  xy: 4805, 1
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1

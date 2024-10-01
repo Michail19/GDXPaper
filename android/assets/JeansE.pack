@@ -1,0 +1,33 @@
+
+JeansE.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+S1
+  rotate: false
+  xy: 1, 517
+  size: 290, 256
+  orig: 290, 256
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 1, 259
+  size: 290, 256
+  orig: 290, 256
+  offset: 0, 0
+  index: -1
+S3
+  rotate: false
+  xy: 293, 517
+  size: 290, 256
+  orig: 290, 256
+  offset: 0, 0
+  index: -1
+S4
+  rotate: false
+  xy: 1, 1
+  size: 290, 256
+  orig: 290, 256
+  offset: 0, 0
+  index: -1

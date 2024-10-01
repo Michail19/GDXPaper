@@ -1,0 +1,40 @@
+
+TableFactoryE.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+N4
+  rotate: false
+  xy: 1, 73
+  size: 342, 316
+  orig: 342, 316
+  offset: 0, 0
+  index: -1
+N1
+  rotate: false
+  xy: 345, 73
+  size: 281, 316
+  orig: 281, 316
+  offset: 0, 0
+  index: -1
+N2
+  rotate: false
+  xy: 628, 73
+  size: 281, 316
+  orig: 281, 316
+  offset: 0, 0
+  index: -1
+N3
+  rotate: false
+  xy: 911, 73
+  size: 281, 316
+  orig: 281, 316
+  offset: 0, 0
+  index: -1
+Title
+  rotate: false
+  xy: 1, 1
+  size: 281, 70
+  orig: 281, 70
+  offset: 0, 0
+  index: -1

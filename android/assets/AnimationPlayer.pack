@@ -1,0 +1,48 @@
+
+AnimationPlayer.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+Player
+  rotate: false
+  xy: 1, 1
+  size: 860, 612
+  orig: 860, 612
+  offset: 0, 0
+  index: -1
+
+AnimationPlayer2.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+Player1
+  rotate: false
+  xy: 1, 1
+  size: 860, 612
+  orig: 860, 612
+  offset: 0, 0
+  index: -1
+
+AnimationPlayer3.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+Player2
+  rotate: false
+  xy: 1, 1
+  size: 860, 612
+  orig: 860, 612
+  offset: 0, 0
+  index: -1
+
+AnimationPlayer4.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+Player3
+  rotate: false
+  xy: 1, 1
+  size: 860, 612
+  orig: 860, 612
+  offset: 0, 0
+  index: -1

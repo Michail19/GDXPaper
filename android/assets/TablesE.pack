@@ -1,0 +1,96 @@
+
+TablesE.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Tb1
+  rotate: false
+  xy: 1, 529
+  size: 662, 266
+  orig: 662, 266
+  offset: 0, 0
+  index: -1
+Tb2
+  rotate: false
+  xy: 1, 265
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb3
+  rotate: false
+  xy: 665, 533
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb4
+  rotate: false
+  xy: 1, 1
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb5
+  rotate: false
+  xy: 665, 269
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb6
+  rotate: false
+  xy: 1329, 533
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb7
+  rotate: false
+  xy: 665, 5
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb8
+  rotate: false
+  xy: 1329, 269
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb9
+  rotate: false
+  xy: 1993, 533
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb10
+  rotate: false
+  xy: 1329, 5
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb11
+  rotate: false
+  xy: 1993, 269
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb12
+  rotate: false
+  xy: 2657, 533
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
+Tb13
+  rotate: false
+  xy: 1993, 5
+  size: 662, 262
+  orig: 662, 262
+  offset: 0, 0
+  index: -1
